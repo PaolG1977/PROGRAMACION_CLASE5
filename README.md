@@ -1,5 +1,7 @@
 # PROGRAMACION_CLASE5
 ACTIVIDADES CLASE 5
+
+
 Ejercicio de práctica Control de Flujo en Python. Deberán realizar la actividad en un archivo Jupyter Notebook. Y deberán entregar el link del repositorio de GitHub.
 Calculadora Simple: Crea un programa que solicite al usuario dos números y una operación (suma, resta, multiplicación o división). Luego, utilizando estructuras condicionales (if, elif, else), realiza la operación seleccionada e imprime el resultado.
 
